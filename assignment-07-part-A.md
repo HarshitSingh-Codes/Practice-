@@ -22,8 +22,11 @@
   ![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/8a0c83be-6163-413b-b3f1-21d940285a94)
 
 - Switch to ninja branch, modify README.md with content "Changes in ninja branch", commit the changes in ninja branch.
+  ![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/9e5b7810-6c85-448e-a808-5114f2d335fc)
   
 - Merge the ninja branch to the master branch in such a fashion that a merge conflict is generated and resolve it using the ours and theirs concept so that the changes of the ninja branch overrides changes in master branch.
+  ![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/3a4b4f3d-c5b7-427c-bfed-02df9d73a929)
+
 
 ## Good To Do
 - Simulate the above scenarios using rebase
