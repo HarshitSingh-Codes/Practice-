@@ -28,13 +28,4 @@
   ![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/3a4b4f3d-c5b7-427c-bfed-02df9d73a929)
 
 
-## Good To Do
-- Simulate the above scenarios using rebase
-![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/13815cdf-65c0-4c09-aa76-6a6caeaaa16d)
-
-![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/2c29b5bb-93a1-4658-894a-28f8a536f148)
-
-![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/5f04d66a-3793-4143-a36d-6fc30fc28d81)
-
-![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/7af310e4-d715-42f5-8d51-d67652b43f40)
 
