@@ -32,4 +32,7 @@ ansible -m apt -a "name=nginx state=present update_cache=yes" -b all
 
 make team members website 
 
+![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/e604c627-d61c-4121-8fcf-19df2edf7947)
+
+
 
