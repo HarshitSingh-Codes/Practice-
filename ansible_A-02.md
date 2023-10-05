@@ -34,5 +34,14 @@ make team members website
 
 ![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/e604c627-d61c-4121-8fcf-19df2edf7947)
 
+![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/da3811dd-ffda-4439-95a4-284958e74978)
+
+![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/cd4dc969-2504-4312-99e7-045213ae2aa4)
+
+#### restart NGINX and test it
+
+![image](https://github.com/HarshitSingh-Codes/Practice-/assets/67234531/f21d513a-5597-4018-9111-1324b8860f8a)
+
+
 
 
